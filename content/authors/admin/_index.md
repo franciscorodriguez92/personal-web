@@ -19,8 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Telecommunications engineer interested in data processing and analytics. 
-
-
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -71,8 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Telecommunications engineer interested in data processing and analytics. 
+Data developer and PhD student at UNED.
 
+My general research area is in Natural Language Processing and Machine Learning, focusing on hate speech and sexism detection.
 
-
-Work in progress...
+Contact: frodriguez.sanchez@invi.uned.es
