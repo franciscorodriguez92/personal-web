@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: PhD student
+    institution: UNED
+    year: 2019
   - course: MSc in Natural Language Processing
     institution: UNED
     year: 2019
