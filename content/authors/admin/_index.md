@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Francisco Miguel Rodríguez Sánchez
+title: Francisco Miguel Rodríguez Sánchez
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Data developer and PhD student
+role: Senior Data Scientist | NLP Researcher
 
 # Organizations/Affiliations
 organizations:
+- name: Hilti AG
+  url: "https://www.hilti.group/"
 - name: UNED
-  url: ""
+  url: "https://www.uned.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Telecommunications engineer interested in data processing and analytics. 
+bio: Senior Data Scientist with a PhD in NLP. Experienced in LLM fine-tuning, predictive analytics, and building scalable ML pipelines in industry and academia.
+
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Natural Language Processing
+- Large Language Models
+- Bias Mitigation & Fair AI
 - Information Retrieval
+- Predictive Analytics
+- Scalable Data Systems (AWS, GCP)
 
 education:
   courses:
-  - course: PhD student
+  - course: PhD in Natural Language Processing (summa cum laude)
     institution: UNED
-    year: 2019
-  - course: MSc in Natural Language Processing
+    year: 2025
+  - course: MSc in Machine Learning and Natural Language Processing
     institution: UNED
     year: 2019
   - course: MSc in Telecommunications Engineering
@@ -40,40 +46,45 @@ education:
     year: 2014
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:franct14@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/PacomiTwit
+  link: https://x.com/PacomiTwit
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/franciscorodriguezsanchez/
 - icon: github
   icon_pack: fab
   link: https://github.com/franciscorodriguez92
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=IN-zfGEAAAAJ&hl=es
+- icon: globe
+  icon_pack: fas
+  link: https://franciscorodriguez92.github.io/
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Data Scientists
 - Visitors
 ---
 
-Data developer and PhD student at UNED.
+Senior Data Scientist and NLP researcher with 9+ years of experience at the intersection of research and industry.  
+I design and deploy end-to-end ML solutions, specializing in **NLP, LLM fine-tuning, predictive analytics, and scalable data pipelines** on AWS and GCP.  
 
-My general research area is in Natural Language Processing and Machine Learning, focusing on hate speech and sexism detection.
+Currently, I work at **Hilti AG** (Paris, hybrid) on **customer feedback analysis, predictive ML for satisfaction modeling, and production ML pipelines**.  
+At the same time, I collaborate with **UNED’s NLP group** on **bias mitigation, multilingual sexism detection, and LLM fine-tuning**, having led the **EXIST shared task** and co-created the **MeTwo dataset**.  
 
-Contact: frodriguez.sanchez@invi.uned.es
+My research has been published in **Expert Systems**, **Applied Intelligence**, and **IEEE Access**.  
+Multilingual communicator (Spanish, English, French), with experience bridging technical depth and business impact.  
+
+📄 Selected publications:  
+- [Expert Systems 2024](https://doi.org/10.1111/exsy.13763)  
+- [Applied Intelligence 2024](https://doi.org/10.1007/s10489-024-05795-2)  
+- [IEEE Access 2021](https://doi.org/10.1109/ACCESS.2020.3042749)  
+
+Contact: **franct14@gmail.com**
