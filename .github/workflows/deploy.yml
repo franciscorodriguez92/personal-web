@@ -19,7 +19,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.150.0'
+        hugo-version: '0.150.0'  # Match your local Hugo version
         extended: true
         
     - name: Build Hugo site
@@ -28,7 +28,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
         publish_dir: ./public
         external_repository: franciscorodriguez92/franciscorodriguez92.github.io
         publish_branch: main
