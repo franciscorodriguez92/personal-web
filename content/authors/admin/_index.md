@@ -73,7 +73,7 @@ avatar:
   alt_text: "Headshot of Francisco M. Rodríguez"
 ---
 
-Hi, I’m a senior data scientist and NLP/LLM researcher based in Valais, Switzerland.  Over the past nine years, I’ve worked at the intersection of academia and industry, building machine learning systems end to end. My main focus is on large language models — from data preparation and fine-tuning to evaluation and deployment in production. Along the way, I’ve worked on retrieval-augmented generation, predictive analytics, and customer intelligence.  
+Hi! 👋 I’m a senior data scientist and NLP/LLM researcher based in Valais, Switzerland.  Over the past nine years, I’ve worked at the intersection of academia and industry, building machine learning systems end to end. My main focus is on large language models — from data preparation and fine-tuning to evaluation and deployment in production. Along the way, I’ve worked on retrieval-augmented generation, predictive analytics, and customer intelligence.  
 
 ## What I do best
 - **NLP & LLMs**: adapting models to specific domains, evaluating systems, and exploring safety and bias  
